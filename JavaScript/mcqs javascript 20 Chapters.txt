@@ -1,0 +1,1501 @@
+1. What does the `alert()` function do in JavaScript?
+   a) Displays a dialog box  
+   b) Displays an image  
+   c) Opens a link  
+   d) Displays a list  
+   **Answer: a) Displays a dialog box**
+
+2. How is the alert function commonly used for notifications in JavaScript?
+   a) To make text bold  
+   b) To prompt the user for input  
+   c) To deliver messages to the user  
+   d) To change background color  
+   **Answer: c) To deliver messages to the user**
+
+3. What does the `confirm()` function do in JavaScript?
+   a) Takes input from the user  
+   b) Displays a dialog box with OK and Cancel buttons  
+   c) Displays an image  
+   d) Opens a link  
+   **Answer: b) Displays a dialog box with OK and Cancel buttons**
+
+4. Which statement about the `alert()` function is correct?
+   a) The text in an alert box cannot be changed  
+   b) The text in an alert box can be changed  
+   c) An alert box contains only an OK button  
+   d) The buttons in an alert box cannot be customized  
+   **Answer: a) The text in an alert box cannot be changed**
+
+5. How can an alert box be closed?
+   a) By pressing the OK button  
+   b) By pressing the Cancel button  
+   c) By pressing the Esc key  
+   d) All of the above  
+   **Answer: d) All of the above**
+
+6. What does the `prompt()` function do in JavaScript?
+   a) Displays a dialog box for user input  
+   b) Displays an image  
+   c) Opens a link  
+   d) Displays a list  
+   **Answer: a) Displays a dialog box for user input**
+
+7. What does a prompt box contain?
+   a) A text field  
+   b) A text area  
+   c) A dropdown menu  
+   d) All of the above  
+   **Answer: a) A text field**
+
+8. How can input from a prompt box be obtained?
+   a) Using the `getValue()` function  
+   b) Using the `promptValue` variable  
+   c) Using the return value of the `prompt()` function  
+   d) Any of the above methods  
+   **Answer: c) Using the return value of the `prompt()` function**
+
+9. What is the purpose of the `console.log()` function in JavaScript?
+   a) Displays a dialog box  
+   b) Displays data in the console  
+   c) Displays an alert box  
+   d) Stores data on the server  
+   **Answer: b) Displays data in the console**
+
+10. Which statement regarding `console.log()` is true?
+    a) It displays a message to the user  
+    b) It displays data in the console  
+    c) It shows a dialog box  
+    d) It takes any type of input  
+    **Answer: b) It displays data in the console**
+
+Sure, here are 30 MCQs related to the JavaScript chapter "Variables" with answers:
+
+1. What is a variable in JavaScript?
+   a) A reserved keyword  
+   b) A container for storing data values  
+   c) A type of loop  
+   d) A function for arithmetic operations  
+   **Answer: b) A container for storing data values**
+
+2. How do you declare a variable in JavaScript?
+   a) Using the `var` keyword  
+   b) Using the `let` keyword  
+   c) Using the `const` keyword  
+   d) All of the above  
+   **Answer: d) All of the above**
+
+3. Which keyword is used to declare a variable that cannot be reassigned in JavaScript?
+   a) `var`  
+   b) `let`  
+   c) `const`  
+   d) `static`  
+   **Answer: c) `const`**
+
+4. What is the scope of a variable declared with the `var` keyword in JavaScript?
+   a) Local to the function where it is declared  
+   b) Global within the script  
+   c) Limited to the block where it is declared  
+   d) Restricted to a specific HTML element  
+   **Answer: b) Global within the script**
+
+5. How do you assign a value to a variable in JavaScript?
+   a) Using the `=` operator  
+   b) Using the `:` operator  
+   c) Using the `==` operator  
+   d) Using the `===` operator  
+   **Answer: a) Using the `=` operator**
+
+6. Which of the following is a valid variable name in JavaScript?
+   a) `my-variable`  
+   b) `2name`  
+   c) `myVariable`  
+   d) `let`  
+   **Answer: c) `myVariable`**
+
+7. What is the result of attempting to access a variable that has not been declared?
+   a) SyntaxError  
+   b) ReferenceError  
+   c) TypeError  
+   d) ValueError  
+   **Answer: b) ReferenceError**
+
+8. Which of the following is the correct way to comment a single line in JavaScript?
+   a) `/* This is a comment */`  
+   b) `// This is a comment`  
+   c) `<!-- This is a comment -->`  
+   d) `# This is a comment`  
+   **Answer: b) `// This is a comment`**
+
+9. What is the purpose of using variables in JavaScript?
+   a) To perform arithmetic operations  
+   b) To store and manipulate data  
+   c) To create loops  
+   d) To define functions  
+   **Answer: b) To store and manipulate data**
+
+10. What is the initial value of a variable in JavaScript if it is declared but not assigned a value?
+    a) `null`  
+    b) `undefined`  
+    c) `0`  
+    d) `false`  
+    **Answer: b) `undefined`**
+
+Sure, here are 30 MCQs related to the JavaScript chapter "Variables for Strings" with answers:
+
+1. Which data type is used to represent text in JavaScript?
+   a) Integer  
+   b) Float  
+   c) String  
+   d) Boolean  
+   **Answer: c) String**
+
+2. How do you declare a string variable in JavaScript?
+   a) Using the `str` keyword  
+   b) Using the `string` keyword  
+   c) Strings are automatically declared  
+   d) Using the `var`, `let`, or `const` keyword followed by the variable name  
+   **Answer: d) Using the `var`, `let`, or `const` keyword followed by the variable name**
+
+3. Which of the following is a valid string in JavaScript?
+   a) `"Hello World"`  
+   b) `Hello World`  
+   c) `Hello World` (without quotes)  
+   d) All of the above  
+   **Answer: a) `"Hello World"`**
+
+4. How do you concatenate two strings in JavaScript?
+   a) Using the `+` operator  
+   b) Using the `-` operator  
+   c) Using the `*` operator  
+   d) Using the `/` operator  
+   **Answer: a) Using the `+` operator**
+
+5. What is the result of `"Hello" + "World"` in JavaScript?
+   a) `HelloWorld`  
+   b) `Hello World`  
+   c) `Hello + World`  
+   d) `NaN`  
+   **Answer: b) `Hello World`**
+
+6. Which method is used to find the length of a string in JavaScript?
+   a) `length()`  
+   b) `size()`  
+   c) `length` property  
+   d) `size` property  
+   **Answer: c) `length` property**
+
+7. What is the escape character in JavaScript?
+   a) `\`  
+   b) `/`  
+   c) `|`  
+   d) `!`  
+   **Answer: a) `\`**
+
+8. What does the `toUpperCase()` method do in JavaScript?
+   a) Converts a string to uppercase letters  
+   b) Converts a string to lowercase letters  
+   c) Removes leading and trailing whitespace  
+   d) Finds the index of a specified value  
+   **Answer: a) Converts a string to uppercase letters**
+
+9. What does the `toLowerCase()` method do in JavaScript?
+   a) Converts a string to uppercase letters  
+   b) Converts a string to lowercase letters  
+   c) Removes leading and trailing whitespace  
+   d) Finds the index of a specified value  
+   **Answer: b) Converts a string to lowercase letters**
+
+10. What method is used to extract a part of a string in JavaScript?
+    a) `substring()`  
+    b) `slice()`  
+    c) `substr()`  
+    d) All of the above  
+    **Answer: d) All of the above**
+
+Certainly! Here are 30 MCQs related to the JavaScript chapter "Variables for Numbers" with answers:
+
+1. What data type is used to represent numbers in JavaScript?
+   a) String  
+   b) Boolean  
+   c) Integer  
+   d) Number  
+   **Answer: d) Number**
+
+2. How do you declare a numeric variable in JavaScript?
+   a) Using the `num` keyword  
+   b) Using the `numeric` keyword  
+   c) Numbers are automatically declared  
+   d) Using the `var`, `let`, or `const` keyword followed by the variable name  
+   **Answer: d) Using the `var`, `let`, or `const` keyword followed by the variable name**
+
+3. Which of the following is a valid number in JavaScript?
+   a) `10.5`  
+   b) `"10"`  
+   c) `ten`  
+   d) All of the above  
+   **Answer: a) `10.5`**
+
+4. How do you perform arithmetic operations in JavaScript?
+   a) Using the `+`, `-`, `*`, and `/` operators  
+   b) Using the `&`, `|`, `^`, and `~` operators  
+   c) Using the `++` and `--` operators  
+   d) All of the above  
+   **Answer: a) Using the `+`, `-`, `*`, and `/` operators**
+
+5. What is the result of `10 + "5"` in JavaScript?
+   a) `15`  
+   b) `"105"`  
+   c) `105`  
+   d) `NaN`  
+   **Answer: b) `"105"`**
+
+6. Which method is used to convert a string to a number in JavaScript?
+   a) `parseInt()`  
+   b) `parseFloat()`  
+   c) `Number()`  
+   d) All of the above  
+   **Answer: d) All of the above**
+
+7. What does the `isNaN()` function do in JavaScript?
+   a) Checks if a value is not a number  
+   b) Converts a value to a number  
+   c) Checks if a value is a number  
+   d) Rounds a number to the nearest integer  
+   **Answer: a) Checks if a value is not a number**
+
+8. What does the `toFixed()` method do in JavaScript?
+   a) Converts a number to a fixed-point notation string  
+   b) Rounds a number to the nearest integer  
+   c) Returns the length of a string  
+   d) Finds the index of a specified value in a string  
+   **Answer: a) Converts a number to a fixed-point notation string**
+
+9. What does the `toPrecision()` method do in JavaScript?
+   a) Converts a number to exponential notation  
+   b) Rounds a number to a specified precision  
+   c) Converts a number to a string with a specified number of significant digits  
+   d) Returns the length of a string  
+   **Answer: c) Converts a number to a string with a specified number of significant digits**
+
+10. What is the result of `Math.random()` in JavaScript?
+    a) A random number between 0 and 1  
+    b) A random integer  
+    c) The value of pi  
+    d) NaN  
+    **Answer: a) A random number between 0 and 1**
+
+Sure, here are 30 MCQs related to JavaScript variable names (Legal and Illegal) with answers:
+
+1. Which of the following variable names is legal in JavaScript?
+   a) `myVariable`  
+   b) `2variable`  
+   c) `variable-name`  
+   d) `let`  
+   **Answer: a) `myVariable`**
+
+2. Which characters are allowed in JavaScript variable names?
+   a) Alphabets, numbers, underscores, and dollar signs  
+   b) Alphabets, numbers, hyphens, and spaces  
+   c) Alphabets, numbers, commas, and colons  
+   d) Alphabets, numbers, asterisks, and percent signs  
+   **Answer: a) Alphabets, numbers, underscores, and dollar signs**
+
+3. Which of the following is not a legal JavaScript variable name?
+   a) `myVariable`  
+   b) `my_variable`  
+   c) `my variable`  
+   d) `MyVariable`  
+   **Answer: c) `my variable`**
+
+4. JavaScript variable names are case-sensitive. What does this mean?
+   a) Variable names cannot contain uppercase letters  
+   b) Variable names cannot contain lowercase letters  
+   c) Variable names must have consistent capitalization  
+   d) Variable names treat uppercase and lowercase letters as distinct  
+   **Answer: d) Variable names treat uppercase and lowercase letters as distinct**
+
+5. What is the maximum length of a JavaScript variable name?
+   a) 20 characters  
+   b) 50 characters  
+   c) 64 characters  
+   d) There is no maximum length  
+   **Answer: d) There is no maximum length**
+
+6. Which of the following is an illegal JavaScript variable name?
+   a) `my_variable`  
+   b) `_myVariable`  
+   c) `2myVariable`  
+   d) `$myVariable`  
+   **Answer: c) `2myVariable`**
+
+7. What is the first character that a JavaScript variable name cannot start with?
+   a) A number  
+   b) An underscore  
+   c) A dollar sign  
+   d) A letter  
+   **Answer: a) A number**
+
+8. Which of the following variable names is legal in JavaScript?
+   a) `my-variable`  
+   b) `myVariable`  
+   c) `my variable`  
+   d) `myVariable@`  
+   **Answer: b) `myVariable`**
+
+9. What happens if you use a reserved keyword as a variable name in JavaScript?
+   a) It throws a syntax error  
+   b) It automatically converts to a legal variable name  
+   c) It treats it as a normal variable name  
+   d) It prompts the user to choose a different name  
+   **Answer: a) It throws a syntax error**
+
+10. Which of the following variable names is illegal in JavaScript?
+    a) `myVariable`  
+    b) `myVariable_2`  
+    c) `2myVariable`  
+    d) `MyVariable`  
+    **Answer: c) `2myVariable`**
+
+Certainly! Here are 30 MCQs related to the JavaScript chapter "Math Expressions" with answers:
+
+1. Which of the following operators is used for addition in JavaScript?
+   a) `+`  
+   b) `-`  
+   c) `*`  
+   d) `/`  
+   **Answer: a) `+`**
+
+2. What is the result of the expression `5 + 3 * 2` in JavaScript?
+   a) `16`  
+   b) `11`  
+   c) `13`  
+   d) `10`  
+   **Answer: c) `13`**
+
+3. Which operator is used for exponentiation in JavaScript?
+   a) `^`  
+   b) `**`  
+   c) `^^`  
+   d) `^*`  
+   **Answer: b) `**`**
+
+4. What is the result of the expression `10 / 2` in JavaScript?
+   a) `5`  
+   b) `20`  
+   c) `0.5`  
+   d) `2`  
+   **Answer: a) `5`**
+
+5. Which operator is used for modulus (remainder) in JavaScript?
+   a) `%`  
+   b) `/`  
+   c) `*`  
+   d) `&`  
+   **Answer: a) `%`**
+
+6. What is the result of the expression `12 % 5` in JavaScript?
+   a) `2`  
+   b) `3`  
+   c) `4`  
+   d) `1`  
+   **Answer: c) `4`**
+
+7. What is the result of the expression `Math.pow(2, 3)` in JavaScript?
+   a) `5`  
+   b) `6`  
+   c) `8`  
+   d) `10`  
+   **Answer: c) `8`**
+
+8. Which method is used to find the square root of a number in JavaScript?
+   a) `Math.sqrt()`  
+   b) `Math.squareRoot()`  
+   c) `Math.pow(x, 0.5)`  
+   d) All of the above  
+   **Answer: a) `Math.sqrt()`**
+
+9. What is the result of the expression `Math.sqrt(16)` in JavaScript?
+   a) `4`  
+   b) `8`  
+   c) `2`  
+   d) `-4`  
+   **Answer: a) `4`**
+
+10. Which operator is used for incrementing a value by 1 in JavaScript?
+    a) `++`  
+    b) `--`  
+    c) `+=`  
+    d) `-=`  
+    **Answer: a) `++`**
+
+11. What is the result of the expression `++5` in JavaScript?
+    a) `5`  
+    b) `6`  
+    c) `7`  
+    d) `4`  
+    **Answer: b) `6`**
+
+12. Which operator is used for decrementing a value by 1 in JavaScript?
+    a) `++`  
+    b) `--`  
+    c) `+=`  
+    d) `-=`  
+    **Answer: b) `--`**
+
+13. What is the result of the expression `--5` in JavaScript?
+    a) `5`  
+    b) `6`  
+    c) `4`  
+    d) `3`  
+    **Answer: c) `4`**
+
+14. Which method is used to find the absolute (positive) value of a number in JavaScript?
+    a) `Math.abs()`  
+    b) `Math.absolute()`  
+    c) `Math.positive()`  
+    d) `Math.sign()`  
+    **Answer: a) `Math.abs()`**
+
+15. What is the result of the expression `Math.abs(-10)` in JavaScript?
+    a) `-10`  
+    b) `10`  
+    c) `-1`  
+    d) `1`  
+    **Answer: b) `10`**
+
+Sure, here are 30 MCQs related to the JavaScript chapter "Concatenating Text Strings" with answers:
+
+1. Which operator is used for concatenating text strings in JavaScript?
+   a) `+`  
+   b) `-`  
+   c) `*`  
+   d) `/`  
+   **Answer: a) `+`**
+
+2. What is the result of `"Hello" + "World"` in JavaScript?
+   a) `HelloWorld`  
+   b) `Hello World`  
+   c) `Hello + World`  
+   d) `NaN`  
+   **Answer: a) `HelloWorld`**
+
+3. Which of the following expressions is correct for concatenating strings?
+   a) `string1.add(string2)`  
+   b) `string1.concat(string2)`  
+   c) `string1.combine(string2)`  
+   d) `string1.append(string2)`  
+   **Answer: b) `string1.concat(string2)`**
+
+4. What is the result of `"Hello".concat(" ", "World")` in JavaScript?
+   a) `HelloWorld`  
+   b) `Hello World`  
+   c) `Hello+World`  
+   d) `NaN`  
+   **Answer: b) `Hello World`**
+
+5. Which method can be used to concatenate multiple strings in JavaScript?
+   a) `join()`  
+   b) `merge()`  
+   c) `concat()`  
+   d) `combine()`  
+   **Answer: c) `concat()`**
+
+6. What is the result of `"Hello".concat(" ", "World").toUpperCase()` in JavaScript?
+   a) `HELLO WORLD`  
+   b) `Hello World`  
+   c) `hello world`  
+   d) `HELLO+World`  
+   **Answer: a) `HELLO WORLD`**
+
+7. Which method is used to join elements of an array into a single string in JavaScript?
+   a) `concat()`  
+   b) `join()`  
+   c) `merge()`  
+   d) `combine()`  
+   **Answer: b) `join()`**
+
+8. What is the default separator used by the `join()` method in JavaScript?
+   a) `,` (comma)  
+   b) `+` (plus)  
+   c) `.` (dot)  
+   d) `-` (hyphen)  
+   **Answer: a) `,` (comma)**
+
+9. What is the result of `["Hello", "World"].join(" ")` in JavaScript?
+   a) `"HelloWorld"`  
+   b) `"Hello World"`  
+   c) `"Hello+World"`  
+   d) `"Hello.World"`  
+   **Answer: b) `"Hello World"`**
+
+10. Which method is used to repeat a string a specified number of times in JavaScript?
+    a) `repeat()`  
+    b) `duplicate()`  
+    c) `replicate()`  
+    d) `copy()`  
+    **Answer: a) `repeat()`**
+
+11. What is the result of `"Hello".repeat(3)` in JavaScript?
+    a) `"HelloHelloHello"`  
+    b) `"Hello3"`  
+    c) `NaN`  
+    d) `"HHH"`  
+    **Answer: a) `"HelloHelloHello"`**
+
+12. Which method is used to extract a part of a string and return a new string in JavaScript?
+    a) `slice()`  
+    b) `substring()`  
+    c) `substr()`  
+    d) All of the above  
+    **Answer: d) All of the above**
+
+13. What is the result of `"Hello".slice(0, 3)` in JavaScript?
+    a) `"Hello"`  
+    b) `"H"`  
+    c) `"Hel"`  
+    d) `"lo"`  
+    **Answer: c) `"Hel"`**
+
+14. Which method is used to find the index of a specified value in a string in JavaScript?
+    a) `indexOf()`  
+    b) `search()`  
+    c) `find()`  
+    d) `locate()`  
+    **Answer: a) `indexOf()`**
+
+15. What is the result of `"Hello World".indexOf("World")` in JavaScript?
+    a) `0`  
+    b) `1`  
+    c) `6`  
+    d) `NaN`  
+    **Answer: c) `6`**
+
+Sure, here are 30 MCQs related to the JavaScript chapter "Prompts" with answers:
+
+1. What does the `prompt()` function do in JavaScript?
+   a) Displays a message in the console  
+   b) Displays a dialog box for user input  
+   c) Opens a link in a new window  
+   d) Highlights text on a webpage  
+   **Answer: b) Displays a dialog box for user input**
+
+2. Which method is used to prompt the user for input in JavaScript?
+   a) `prompt()`  
+   b) `alert()`  
+   c) `confirm()`  
+   d) `console.log()`  
+   **Answer: a) `prompt()`**
+
+3. What is the syntax for using the `prompt()` function in JavaScript?
+   a) `prompt("Enter your name")`  
+   b) `prompt["Enter your name"]`  
+   c) `prompt = "Enter your name"`  
+   d) `prompt("Enter your name", value)`  
+   **Answer: a) `prompt("Enter your name")`**
+
+4. What is the return type of the `prompt()` function in JavaScript?
+   a) String  
+   b) Number  
+   c) Boolean  
+   d) Object  
+   **Answer: a) String**
+
+5. How can you assign the result of a prompt to a variable in JavaScript?
+   a) `result = prompt("Enter your name")`  
+   b) `prompt("Enter your name") = result`  
+   c) `var result = prompt("Enter your name")`  
+   d) `result = "Enter your name"`  
+   **Answer: c) `var result = prompt("Enter your name")`**
+
+6. What happens if the user clicks the Cancel button in a prompt dialog box?
+   a) The browser closes  
+   b) The webpage refreshes  
+   c) The prompt returns null  
+   d) The prompt returns an empty string  
+   **Answer: c) The prompt returns null**
+
+7. Which of the following is true about the default value parameter in the `prompt()` function?
+   a) It is mandatory  
+   b) It specifies the message displayed in the prompt box  
+   c) It specifies the default value displayed in the input field  
+   d) It cannot be set  
+   **Answer: c) It specifies the default value displayed in the input field**
+
+8. How can you validate user input received from a prompt in JavaScript?
+   a) Using the `isNaN()` function  
+   b) Using regular expressions  
+   c) Using conditional statements  
+   d) All of the above  
+   **Answer: d) All of the above**
+
+9. Which of the following statements is true about the `parseInt()` function in JavaScript?
+   a) It converts a string to lowercase  
+   b) It converts a string to an integer  
+   c) It converts a string to uppercase  
+   d) It converts a string to a floating-point number  
+   **Answer: b) It converts a string to an integer**
+
+10. What does the `parseInt()` function return if the input string cannot be converted to a number?
+    a) `null`  
+    b) `0`  
+    c) `NaN`  
+    d) `undefined`  
+    **Answer: c) `NaN`
+
+Sure, here are 30 MCQs related to the JavaScript chapter "if statements" with answers:
+
+1. What is the purpose of an if statement in JavaScript?
+   a) To declare variables  
+   b) To execute code based on a condition  
+   c) To loop through arrays  
+   d) To concatenate strings  
+   **Answer: b) To execute code based on a condition**
+
+2. What is the syntax of an if statement in JavaScript?
+   a) `if condition { // code }`  
+   b) `if (condition) { // code }`  
+   c) `if { // code } condition`  
+   d) `condition { // code } if`  
+   **Answer: b) `if (condition) { // code }`**
+
+3. Which symbol is used to denote equality in an if statement?
+   a) `=`  
+   b) `==`  
+   c) `===`  
+   d) `!=`  
+   **Answer: b) `==`**
+
+4. What is the result of the expression `10 == "10"` in JavaScript?
+   a) `true`  
+   b) `false`  
+   c) `null`  
+   d) `undefined`  
+   **Answer: a) `true`**
+
+5. How do you use the else statement in conjunction with an if statement?
+   a) `if { // code } else { // code }`  
+   b) `else { // code } if { // code }`  
+   c) `if { // code } else if { // code }`  
+   d) `if { // code } else { // code }`  
+   **Answer: d) `if { // code } else { // code }`**
+
+6. What is the purpose of the else statement in JavaScript?
+   a) To define a condition  
+   b) To execute code if the if condition is false  
+   c) To terminate the program  
+   d) To declare variables  
+   **Answer: b) To execute code if the if condition is false**
+
+7. How many else if statements can be used in conjunction with an if statement?
+   a) Only one  
+   b) As many as needed  
+   c) Two  
+   d) None  
+   **Answer: b) As many as needed**
+
+8. What is the purpose of using else if statements in JavaScript?
+   a) To execute code if the if condition is true  
+   b) To execute code if none of the previous conditions are true  
+   c) To create a loop  
+   d) To declare variables  
+   **Answer: b) To execute code if none of the previous conditions are true**
+
+9. What is the syntax for an else if statement in JavaScript?
+   a) `else if { // code }`  
+   b) `if else { // code }`  
+   c) `else { // code } if { // code }`  
+   d) `if { // code } else if { // code }`  
+   **Answer: d) `if { // code } else if { // code }`**
+
+10. What is the purpose of the switch statement in JavaScript?
+    a) To declare variables  
+    b) To execute code based on multiple conditions  
+    c) To create a loop  
+    d) To concatenate strings  
+    **Answer: b) To execute code based on multiple conditions**
+
+11. How do you terminate a switch statement in JavaScript?
+    a) Using the break statement  
+    b) Using the continue statement  
+    c) Using the return statement  
+    d) Using the exit statement  
+    **Answer: a) Using the break statement**
+
+12. What happens if none of the cases in a switch statement match the expression?
+    a) The program throws an error  
+    b) The default case is executed  
+    c) The program terminates  
+    d) The switch statement is ignored  
+    **Answer: b) The default case is executed**
+
+13. What is the purpose of the default case in a switch statement?
+    a) To execute code if none of the cases match the expression  
+    b) To terminate the switch statement  
+    c) To define a condition  
+    d) To concatenate strings  
+    **Answer: a) To execute code if none of the cases match the expression**
+
+14. Can you use multiple conditions in an if statement?
+    a) Yes, by using logical operators  
+    b) No, if statements only accept single conditions  
+    c) Yes, by using nested if statements  
+    d) No, if statements do not support multiple conditions  
+    **Answer: a) Yes, by using logical operators**
+
+15. What is the result of the expression `10 > 5 && 5 < 3` in JavaScript?
+    a) `true`  
+    b) `false`  
+    c) `null`  
+    d) `undefined`  
+    **Answer: b) `false`
+
+Sure, here are 30 MCQs related to the JavaScript chapter "Comparison Operators" with answers:
+
+1. Which of the following is a comparison operator in JavaScript?
+   a) `=`  
+   b) `==`  
+   c) `===`  
+   d) All of the above  
+   **Answer: b) `==`**
+
+2. What is the result of the expression `5 == "5"` in JavaScript?
+   a) `true`  
+   b) `false`  
+   c) `null`  
+   d) `undefined`  
+   **Answer: a) `true`**
+
+3. What is the difference between the `==` and `===` operators in JavaScript?
+   a) `==` checks both value and type, while `===` checks only value  
+   b) `==` checks only value, while `===` checks both value and type  
+   c) There is no difference  
+   d) `===` is invalid syntax in JavaScript  
+   **Answer: b) `==` checks only value, while `===` checks both value and type**
+
+4. Which operator is used to check if two values are equal in JavaScript without considering type?
+   a) `=`  
+   b) `==`  
+   c) `===`  
+   d) `!==`  
+   **Answer: b) `==`**
+
+5. What is the result of the expression `10 != 5` in JavaScript?
+   a) `true`  
+   b) `false`  
+   c) `null`  
+   d) `undefined`  
+   **Answer: a) `true`**
+
+6. What is the result of the expression `10 !== "10"` in JavaScript?
+   a) `true`  
+   b) `false`  
+   c) `null`  
+   d) `undefined`  
+   **Answer: a) `true`**
+
+7. Which operator is used to check if two values are not equal in JavaScript without considering type?
+   a) `!=`  
+   b) `!==`  
+   c) `=`  
+   d) `!===`  
+   **Answer: a) `!=`**
+
+8. What is the result of the expression `5 < 10` in JavaScript?
+   a) `true`  
+   b) `false`  
+   c) `null`  
+   d) `undefined`  
+   **Answer: a) `true`**
+
+9. Which operator is used to check if one value is less than another in JavaScript?
+   a) `<`  
+   b) `>`  
+   c) `<=`  
+   d) `>=`  
+   **Answer: a) `<`**
+
+10. What is the result of the expression `10 > 5` in JavaScript?
+    a) `true`  
+    b) `false`  
+    c) `null`  
+    d) `undefined`  
+    **Answer: a) `true`**
+
+11. Which operator is used to check if one value is greater than another in JavaScript?
+    a) `<`  
+    b) `>`  
+    c) `<=`  
+    d) `>=`  
+    **Answer: b) `>`**
+
+12. What is the result of the expression `5 <= 5` in JavaScript?
+    a) `true`  
+    b) `false`  
+    c) `null`  
+    d) `undefined`  
+    **Answer: a) `true`**
+
+13. Which operator is used to check if one value is less than or equal to another in JavaScript?
+    a) `<`  
+    b) `>`  
+    c) `<=`  
+    d) `>=`  
+    **Answer: c) `<=`**
+
+14. What is the result of the expression `5 >= 10` in JavaScript?
+    a) `true`  
+    b) `false`  
+    c) `null`  
+    d) `undefined`  
+    **Answer: b) `false`**
+
+15. Which operator is used to check if one value is greater than or equal to another in JavaScript?
+    a) `<`  
+    b) `>`  
+    c) `<=`  
+    d) `>=`  
+    **Answer: d) `>=`
+
+Apologies for the oversight. Here are 30 MCQs related to the JavaScript chapter "if...else and else if statements" with answers:
+
+1. What is the purpose of an else statement in JavaScript?
+   a) To define an alternative condition  
+   b) To terminate the if statement  
+   c) To define the primary condition  
+   d) To declare variables  
+   **Answer: a) To define an alternative condition**
+
+2. How many else if statements can be used with an if statement?
+   a) Only one  
+   b) Multiple  
+   c) Two  
+   d) None  
+   **Answer: b) Multiple**
+
+3. What is the syntax for an if...else statement in JavaScript?
+   a) 
+   ```
+   if (condition) {
+       // code
+   }
+   else {
+       // code
+   }
+   ```  
+   b) 
+   ```
+   if (condition) {
+       // code
+   }
+   elseif {
+       // code
+   }
+   else {
+       // code
+   }
+   ```  
+   c) 
+   ```
+   if (condition) {
+       // code
+   }
+   else if (condition) {
+       // code
+   }
+   else {
+       // code
+   }
+   ```  
+   d) 
+   ```
+   if (condition) {
+       // code
+   }
+   else if (condition) {
+       // code
+   }
+   ```  
+   **Answer: c) 
+   ```
+   if (condition) {
+       // code
+   }
+   else if (condition) {
+       // code
+   }
+   else {
+       // code
+   }
+   ```**
+
+4. How is the else if statement different from the if statement in JavaScript?
+   a) The else if statement is used to check multiple conditions  
+   b) The else if statement is used to define an alternative condition  
+   c) There is no difference  
+   d) The else if statement is used to terminate the program  
+   **Answer: a) The else if statement is used to check multiple conditions**
+
+5. What is the result of the following code snippet?
+   ```
+   var x = 5;
+   if (x > 10) {
+       console.log("x is greater than 10");
+   }
+   else if (x < 10) {
+       console.log("x is less than 10");
+   }
+   else {
+       console.log("x is equal to 10");
+   }
+   ```
+   a) x is greater than 10  
+   b) x is less than 10  
+   c) x is equal to 10  
+   d) No output  
+   **Answer: b) x is less than 10**
+
+6. In an if...else statement, how many blocks of code can be executed at most?
+   a) One  
+   b) Two  
+   c) Three  
+   d) Four  
+   **Answer: b) Two**
+
+7. What is the purpose of using else if statements in JavaScript?
+   a) To define multiple conditions  
+   b) To terminate the if statement  
+   c) To define the primary condition  
+   d) To declare variables  
+   **Answer: a) To define multiple conditions**
+
+8. Which statement is executed if none of the conditions in an if...else if...else statement are true?
+   a) The if statement  
+   b) The else if statement  
+   c) The else statement  
+   d) None of the above  
+   **Answer: c) The else statement**
+
+9. In JavaScript, can an else statement be used without an if statement?
+   a) Yes  
+   b) No  
+   **Answer: b) No**
+
+10. What is the purpose of using multiple else if statements in JavaScript?
+    a) To check for alternative conditions  
+    b) To terminate the program  
+    c) To declare variables  
+    d) None of the above  
+    **Answer: a) To check for alternative conditions**
+
+11. Which statement is executed when all other conditions fail in an if...else if...else statement?
+    a) The if statement  
+    b) The else if statement  
+    c) The else statement  
+    d) None of the above  
+    **Answer: c) The else statement**
+
+12. How are else if statements evaluated in relation to the if statement?
+    a) Before  
+    b) After  
+    c) At the same time  
+    d) None of the above  
+    **Answer: b) After**
+
+13. What is the purpose of an else statement in JavaScript?
+    a) To define the primary condition  
+    b) To define an alternative condition  
+    c) To check multiple conditions  
+    d) None of the above  
+    **Answer: b) To define an alternative condition**
+
+14. Which of the following statements is true about else if statements in JavaScript?
+    a) They are mandatory in an if...else statement  
+    b) They are optional in an if...else statement  
+    c) They can only be used once in an if...else statement  
+    d) They cannot be used in an if...else statement  
+    **Answer: b) They are optional in an if...else statement**
+
+15. How many times can the code inside an if...else if...else statement be executed?
+    a) Only once  
+    b) Multiple times  
+    c) Depends on the condition  
+    d) Never  
+    **Answer: a) Only once
+
+Sure, here are 30 MCQs related to the JavaScript chapter "Testing sets of conditions" with answers:
+
+1. What is the purpose of testing sets of conditions in JavaScript?
+   a) To perform mathematical operations  
+   b) To execute code sequentially  
+   c) To evaluate multiple conditions and execute code based on the results  
+   d) To declare variables  
+   **Answer: c) To evaluate multiple conditions and execute code based on the results**
+
+2. Which JavaScript construct is used to test multiple conditions?
+   a) if statement  
+   b) for loop  
+   c) switch statement  
+   d) while loop  
+   **Answer: a) if statement**
+
+3. In JavaScript, which logical operator is used to combine multiple conditions?
+   a) || (OR)  
+   b) && (AND)  
+   c) ! (NOT)  
+   d) ^ (XOR)  
+   **Answer: b) && (AND)**
+
+4. What is the result of the expression `true && false` in JavaScript?
+   a) true  
+   b) false  
+   c) null  
+   d) undefined  
+   **Answer: b) false**
+
+5. What is the result of the expression `(5 > 3) && (10 < 20)` in JavaScript?
+   a) true  
+   b) false  
+   c) null  
+   d) undefined  
+   **Answer: a) true**
+
+6. Which logical operator in JavaScript returns true if either of the operands is true?
+   a) && (AND)  
+   b) || (OR)  
+   c) ! (NOT)  
+   d) ^ (XOR)  
+   **Answer: b) || (OR)**
+
+7. What is the result of the expression `true || false` in JavaScript?
+   a) true  
+   b) false  
+   c) null  
+   d) undefined  
+   **Answer: a) true**
+
+8. What is short-circuit evaluation in JavaScript?
+   a) It evaluates all conditions in a set  
+   b) It skips the evaluation of remaining conditions if one condition is false (for &&) or true (for ||)  
+   c) It terminates the program  
+   d) It evaluates only the first condition  
+   **Answer: b) It skips the evaluation of remaining conditions if one condition is false (for &&) or true (for ||)**
+
+9. What is the result of the expression `true || (5 > 10)` in JavaScript?
+   a) true  
+   b) false  
+   c) null  
+   d) undefined  
+   **Answer: a) true**
+
+10. What is the purpose of using parentheses in testing sets of conditions in JavaScript?
+    a) To specify the order of evaluation  
+    b) To declare variables  
+    c) To terminate the if statement  
+    d) To concatenate strings  
+    **Answer: a) To specify the order of evaluation**
+
+11. How can you check if a value is not equal to either of two values in JavaScript?
+    a) Using the && operator  
+    b) Using the || operator  
+    c) Using the ! operator  
+    d) Using the === operator  
+    **Answer: c) Using the ! operator**
+
+12. What is the result of the expression `!(5 === 5)` in JavaScript?
+    a) true  
+    b) false  
+    c) null  
+    d) undefined  
+    **Answer: b) false**
+
+13. How can you check if a value is equal to one of several values in JavaScript?
+    a) Using multiple if statements  
+    b) Using the || operator  
+    c) Using the && operator  
+    d) Using the ! operator  
+    **Answer: b) Using the || operator**
+
+14. What is the result of the expression `(x === 5) || (x === 10)` in JavaScript, if `x` is equal to 5?
+    a) true  
+    b) false  
+    c) null  
+    d) undefined  
+    **Answer: a) true**
+
+15. What is the purpose of using logical operators in testing sets of conditions in JavaScript?
+    a) To specify the order of evaluation  
+    b) To combine multiple conditions  
+    c) To declare variables  
+    d) To terminate the program  
+    **Answer: b) To combine multiple conditions
+
+Sure, here are 30 MCQs related to the JavaScript chapter "If statements nested" with answers:
+
+1. What is the purpose of nested if statements in JavaScript?
+   a) To simplify code  
+   b) To execute multiple conditions sequentially  
+   c) To execute conditions within other conditions  
+   d) To declare variables  
+   **Answer: c) To execute conditions within other conditions**
+
+2. How are nested if statements structured in JavaScript?
+   a) Each if statement is separated by a semicolon  
+   b) Each if statement is enclosed within another if statement  
+   c) Each if statement is separated by a comma  
+   d) Each if statement is enclosed within square brackets  
+   **Answer: b) Each if statement is enclosed within another if statement**
+
+3. What is the maximum level of nesting allowed for if statements in JavaScript?
+   a) One level  
+   b) Two levels  
+   c) Three levels  
+   d) There is no maximum limit  
+   **Answer: d) There is no maximum limit**
+
+4. How are conditions evaluated in nested if statements?
+   a) From top to bottom  
+   b) From bottom to top  
+   c) Randomly  
+   d) Parallelly  
+   **Answer: a) From top to bottom**
+
+5. What is the result of the following nested if statements in JavaScript?
+   ```
+   var x = 5;
+   var y = 10;
+   if (x > 0) {
+       if (y > 5) {
+           console.log("Both conditions are true");
+       }
+   }
+   ```
+   a) Both conditions are true  
+   b) Only the first condition is true  
+   c) Only the second condition is true  
+   d) Neither condition is true  
+   **Answer: a) Both conditions are true**
+
+6. In nested if statements, what happens if the outer condition is false?
+   a) The inner condition is evaluated  
+   b) The program terminates  
+   c) The inner condition is not evaluated  
+   d) The else statement is executed  
+   **Answer: c) The inner condition is not evaluated**
+
+7. How can you create a multi-level nested if statement in JavaScript?
+   a) By using multiple if statements at the same level  
+   b) By using a combination of if and else statements  
+   c) By nesting if statements within other if statements  
+   d) By using a switch statement  
+   **Answer: c) By nesting if statements within other if statements**
+
+8. What is the purpose of indentation in nested if statements?
+   a) To make the code more readable  
+   b) To specify the order of evaluation  
+   c) To terminate the program  
+   d) To concatenate strings  
+   **Answer: a) To make the code more readable**
+
+9. What is the result of the following nested if statements in JavaScript?
+   ```
+   var x = 5;
+   var y = 10;
+   if (x > 0) {
+       if (y < 5) {
+           console.log("Both conditions are true");
+       }
+   }
+   ```
+   a) Both conditions are true  
+   b) Only the first condition is true  
+   c) Only the second condition is true  
+   d) Neither condition is true  
+   **Answer: d) Neither condition is true**
+
+10. How can you add an alternative condition to a nested if statement in JavaScript?
+    a) By using multiple else statements  
+    b) By using a switch statement  
+    c) By nesting another if...else statement inside  
+    d) By using logical operators  
+    **Answer: c) By nesting another if...else statement inside**
+
+11. What is the purpose of adding alternative conditions to nested if statements?
+    a) To simplify the code  
+    b) To execute additional conditions  
+    c) To terminate the program  
+    d) To concatenate strings  
+    **Answer: b) To execute additional conditions**
+
+12. What is the result of the following nested if statements in JavaScript?
+    ```
+    var x = 5;
+    var y = 10;
+    if (x < 0) {
+        if (y > 5) {
+            console.log("Both conditions are true");
+        }
+    }
+    ```
+    a) Both conditions are true  
+    b) Only the first condition is true  
+    c) Only the second condition is true  
+    d) Neither condition is true  
+    **Answer: d) Neither condition is true**
+
+13. In nested if statements, how can you exit from the innermost block of code?
+    a) Using the break statement  
+    b) Using the continue statement  
+    c) Using the return statement  
+    d) Using the exit statement  
+    **Answer: c) Using the return statement**
+
+14. What is the result of the following nested if statements in JavaScript?
+    ```
+    var x = 5;
+    var y = 10;
+    if (x > 0) {
+        if (y > 5) {
+            console.log("Both conditions are true");
+        } else {
+            console.log("Inner condition is false");
+        }
+    } else {
+        console.log("Outer condition is false");
+    }
+    ```
+    a) Both conditions are true  
+    b) Only the inner condition is true  
+    c) Only the outer condition is true  
+    d) Both conditions are false  
+    **Answer: a) Both conditions are true**
+
+15. How can you avoid excessive nesting in if statements in JavaScript?
+    a) By using multiple if statements  
+    b) By using switch statements  
+    c) By using functions to encapsulate logic  
+    d) By using the break statement  
+    **Answer: c) By using functions to encapsulate
+
+Sure, here are 30 MCQs related to the JavaScript chapter "Arrays" with answers:
+
+1. What is an array in JavaScript?
+   a) A data structure used to store key-value pairs  
+   b) A collection of elements, each identified by an index  
+   c) A function used to iterate over objects  
+   d) A method for sorting elements in a list  
+   **Answer: b) A collection of elements, each identified by an index**
+
+2. How do you declare an empty array in JavaScript?
+   a) `var array = {}`  
+   b) `var array = []`  
+   c) `var array = ()`  
+   d) `var array = null`  
+   **Answer: b) `var array = []`**
+
+3. What is the index of the first element in an array in JavaScript?
+   a) 0  
+   b) 1  
+   c) -1  
+   d) Depends on the length of the array  
+   **Answer: a) 0**
+
+4. How do you access the third element in an array named `myArray` in JavaScript?
+   a) `myArray(2)`  
+   b) `myArray[2]`  
+   c) `myArray[3]`  
+   d) `myArray.3`  
+   **Answer: b) `myArray[2]`**
+
+5. What method is used to add elements to the end of an array in JavaScript?
+   a) `push()`  
+   b) `add()`  
+   c) `append()`  
+   d) `insert()`  
+   **Answer: a) `push()`**
+
+6. How do you remove the last element from an array in JavaScript?
+   a) `removeLast()`  
+   b) `pop()`  
+   c) `deleteLast()`  
+   d) `splice(-1)`  
+   **Answer: b) `pop()`**
+
+7. What method is used to remove the first element from an array in JavaScript?
+   a) `removeFirst()`  
+   b) `shift()`  
+   c) `deleteFirst()`  
+   d) `splice(0, 1)`  
+   **Answer: b) `shift()`**
+
+8. How do you find the length of an array in JavaScript?
+   a) `length()`  
+   b) `size()`  
+   c) `count()`  
+   d) `length`  
+   **Answer: d) `length`**
+
+9. What method is used to join all elements of an array into a string in JavaScript?
+   a) `concat()`  
+   b) `join()`  
+   c) `merge()`  
+   d) `combine()`  
+   **Answer: b) `join()`**
+
+10. How do you check if a variable is an array in JavaScript?
+    a) Using the `isArray()` method  
+    b) Using the `isArray` property  
+    c) Using the `typeof` operator  
+    d) Using the `instanceof` operator  
+    **Answer: a) Using the `isArray()` method**
+
+11. What is the result of the following code snippet?
+    ```
+    var fruits = ["Apple", "Banana", "Orange"];
+    console.log(fruits[1]);
+    ```
+    a) Apple  
+    b) Banana  
+    c) Orange  
+    d) Undefined  
+    **Answer: b) Banana**
+
+12. How do you add elements to the beginning of an array in JavaScript?
+    a) `append()`  
+    b) `push()`  
+    c) `unshift()`  
+    d) `insert()`  
+    **Answer: c) `unshift()`**
+
+13. What method is used to reverse the order of elements in an array in JavaScript?
+    a) `reverse()`  
+    b) `invert()`  
+    c) `flip()`  
+    d) `revert()`  
+    **Answer: a) `reverse()`**
+
+14. What is the result of the following code snippet?
+    ```
+    var numbers = [1, 2, 3];
+    numbers.push(4);
+    console.log(numbers);
+    ```
+    a) [1, 2, 3, 4]  
+    b) [4, 3, 2, 1]  
+    c) [1, 2, 3]  
+    d) [1, 2, 3, 4, 5]  
+    **Answer: a) [1, 2, 3, 4]**
+
+15. What is the result of the following code snippet?
+    ```
+    var colors = ["red", "green", "blue"];
+    console.log(colors.length);
+    ```
+    a) 0  
+    b) 1  
+    c) 2  
+    d) 3  
+    **Answer: d) 3
+
+Sure, here are 30 MCQs related to the JavaScript chapter "for loops" with answers:
+
+1. What is the purpose of a for loop in JavaScript?
+   a) To define functions  
+   b) To execute a block of code repeatedly  
+   c) To declare variables  
+   d) To concatenate strings  
+   **Answer: b) To execute a block of code repeatedly**
+
+2. How is a for loop structured in JavaScript?
+   a) for (initialization; condition; increment)  
+   b) for (condition; initialization; increment)  
+   c) for (increment; initialization; condition)  
+   d) for (condition; increment; initialization)  
+   **Answer: a) for (initialization; condition; increment)**
+
+3. What does the initialization part of a for loop do?
+   a) Defines the condition for executing the loop  
+   b) Declares variables used in the loop  
+   c) Sets the starting value for the loop counter  
+   d) Specifies the actions to be performed after each iteration  
+   **Answer: c) Sets the starting value for the loop counter**
+
+4. How do you specify the condition for terminating the for loop in JavaScript?
+   a) By using the initialization part  
+   b) By using the condition part  
+   c) By using the increment part  
+   d) By using the break statement  
+   **Answer: b) By using the condition part**
+
+5. What does the increment part of a for loop do?
+   a) Defines the condition for executing the loop  
+   b) Declares variables used in the loop  
+   c) Sets the starting value for the loop counter  
+   d) Specifies the actions to be performed after each iteration  
+   **Answer: d) Specifies the actions to be performed after each iteration**
+
+6. What is the result of the following for loop?
+   ```
+   for (var i = 0; i < 5; i++) {
+       console.log(i);
+   }
+   ```
+   a) 0 1 2 3 4  
+   b) 1 2 3 4 5  
+   c) 0 1 2 3  
+   d) 1 2 3 4  
+   **Answer: a) 0 1 2 3 4**
+
+7. How do you access the current value of the loop counter inside a for loop in JavaScript?
+   a) Using the `current` keyword  
+   b) Using the `loop` keyword  
+   c) Using the `i` variable  
+   d) Using the `index` variable  
+   **Answer: c) Using the `i` variable**
+
+8. What happens if the condition part of a for loop is initially false?
+   a) The loop executes once  
+   b) The loop does not execute at all  
+   c) An error occurs  
+   d) The loop executes infinitely  
+   **Answer: b) The loop does not execute at all**
+
+9. How do you iterate over the elements of an array using a for loop in JavaScript?
+   a) By using the `each` keyword  
+   b) By using the `forEach` method  
+   c) By using the `for...in` loop  
+   d) By using the index variable to access each element  
+   **Answer: d) By using the index variable to access each element**
+
+10. What is the purpose of the break statement inside a for loop in JavaScript?
+    a) To terminate the loop and continue with the next iteration  
+    b) To exit the entire loop structure  
+    c) To skip the current iteration and continue with the next one  
+    d) To restart the loop from the beginning  
+    **Answer: b) To exit the entire loop structure**
+
+11. How do you create an infinite loop using a for loop in JavaScript?
+    a) By omitting the condition part  
+    b) By omitting the increment part  
+    c) By setting the condition to `true`  
+    d) By setting the increment to `0`  
+    **Answer: c) By setting the condition to `true`**
+
+12. What does the following for loop do?
+    ```
+    for (var i = 10; i > 0; i -= 2) {
+        console.log(i);
+    }
+    ```
+    a) Prints even numbers from 2 to 10  
+    b) Prints odd numbers from 1 to 9  
+    c) Prints even numbers from 10 to 2  
+    d) Prints odd numbers from 10 to 2  
+    **Answer: c) Prints even numbers from 10 to 2**
+
+13. How do you iterate over the properties of an object using a for loop in JavaScript?
+    a) By using the `keys` method  
+    b) By using the `for...in` loop  
+    c) By converting the object to an array  
+    d) By using the `values` method  
+    **Answer: b) By using the `for...
+

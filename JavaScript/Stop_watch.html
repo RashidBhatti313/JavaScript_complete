@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stop Watch</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #a4a9f1;
+            /* Set background color */
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .time {
+            text-align: center;
+        }
+
+        h1 {
+            margin-bottom: 20px;
+        }
+
+        h1 span {
+            padding: 10px 20px;
+            background-color: #3498db;
+            /* Set background color */
+            border-radius: 10px;
+            color: #fff;
+            /* Set text color */
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            /* Add shadow */
+        }
+
+        div {
+            border-radius: 10px;
+            font-size: 50px;
+            margin-top: 20px;
+        }
+
+        div button {
+            border-radius: 10px;
+            font-size: 30px;
+            color: #fff;
+            font-weight: bold;
+            /* Set text color */
+            background-color: #2ecc71;
+            /* Set background color */
+            border: none;
+            padding: 15px 30px;
+            margin: 10px;
+            cursor: pointer;
+            /* Add pointer cursor on hover */
+            transition: background-color 0.3s ease;
+            /* Smooth transition */
+            animation: pulse 2s infinite;
+            /* Apply pulse animation */
+        }
+
+        @keyframes pulse {
+            0% {
+                transform: scale(1);
+            }
+
+            50% {
+                transform: scale(1.1);
+            }
+
+            100% {
+                transform: scale(1);
+            }
+        }
+
+        div button:hover {
+            background-color: #27ae60;
+            /* Change background color on hover */
+            animation: none;
+            /* Remove animation on hover */
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="time">
+        <h1>
+            <span id="displayMin">--</span> :
+            <span id="displaySec">--</span> :
+            <span id="displayMili">--</span>
+        </h1>
+        <div>
+            <button onclick="startTimer()" id="startBtn">start</button>
+            <button onclick="stopTimer()" id="stopBtn">stop</button>
+            <button onclick="resetTimer()" id="resetBtn">reset</button>
+        </div>
+    </div>
+
+
+
+    <script src="Stop_watch.js"></script>
+
+</body>
+
+</html>
